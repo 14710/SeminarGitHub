@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 first change 123
 changed again
 nfis
